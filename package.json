@@ -1,0 +1,26 @@
+{
+  "name": "hapi-jg",
+  "version": "1.0.0",
+  "description": "Evaluating the Hapi.JS -A rich framework for building applications and services hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/hapi.js.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "JG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/hapi.js/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/hapi.js#readme"
+}
